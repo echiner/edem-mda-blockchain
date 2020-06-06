@@ -1,9 +1,20 @@
-# edem-mda-blockchain
+# EDEM - MDA - Blockchain Course
 Exercises for the Blockchain course in EDEM's MDA master.
 
-Tool: https://beta.mycrypto.com/interact-with-contracts
-Contract: 0x23A00D0dA71b68004351b0AA867B21a0B875D81e
-ABI:
+## Exercise 1
+
+Using MetaMask to create a Wallet and connect to Ethereum blockchain.
+
+## Exercise 2
+
+Using [MyCrypto](https://mycrypto.com/) to interact with Smart Contracts.
+
+Follow these steps:
+
+* Go to the tool: https://beta.mycrypto.com/interact-with-contracts
+* Use this contract: 0x23A00D0dA71b68004351b0AA867B21a0B875D81e
+* Use the following ABI (Application Binary Interface)
+
 ```
 [
 	{
