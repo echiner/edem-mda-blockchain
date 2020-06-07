@@ -5,7 +5,15 @@ Exercises for the Blockchain course in EDEM's MDA master.
 
 Using MetaMask to create a Wallet and connect to Ethereum blockchain.
 
-Follow the steps in the exercise slide.
+* **Pre-requisite**: Google Chrome or Firefox installed
+* Go to MetaMask site: https://metamask.io/download.html
+* Install the Chrome extension
+* Create a new wallet by clicking on the MetaMask icon (a fox on the top right hand of your browser)
+* Select the “Rinkeby” network (top right)
+* Follow the steps in “Rinkeby’s faucet” in order to get some Ether:
+  * https://www.rinkeby.io/#faucet
+  * **TIP**: If you don’t have Twitter or Facebook, feel free to ask the teacher for some ether
+* Send some Ether to your colleagues!!!
 
 ## Exercise 2
 
@@ -65,6 +73,6 @@ Follow these steps to interact with the contract:
 * Play around with the available functions
   * **NOTE**: reading functions will not require a transaction but writing functions do, so you will have to confirm it using MetaMask.
 
-Now, if you want to play around with a more complex contract feel free to select the ones provided by the tool, or take a look at **the teacher's CV** (contral details here).
+Now, if you want to play around with a more complex contract feel free to select the ones provided by the tool, or take a look at **the teacher's CV** ([contract details here](TeacherCV.md)).
 
 ## Exercise 3
