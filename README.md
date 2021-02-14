@@ -1,6 +1,6 @@
 # EDEM - Blockchain  & Cryptocurrencies Course
 
-<img width="250" src="http://assets.stickpng.com/images/5a521fb92f93c7a8d5137fd1.png">
+<img width="250" src="https://www.iconspng.com/images/ethereum-logo-long.jpg">
 
 Exercises for the "Blockchain & Cryptocurrencies" course in EDEM's masters.
 
