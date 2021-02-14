@@ -4,8 +4,8 @@ In this exercise you will be adding ERC-20 tokens to your MetaMask wallet.
 
 We will be using two different ones:
 
-* Tether USD: A very famous stablecoin linked to the US dollar
-* GFT Test Token: A simple custo token created by GFT for testing purposes
+* **Tether USD**: A very famous stablecoin linked to the US dollar
+* **GFT Test Token**: A simple custo token created by GFT for testing purposes
   * More info here: https://rinkeby.etherscan.io/token/0x09da9b7a133057e4df17c503cf4589bc096da964
 
 ## Instructions

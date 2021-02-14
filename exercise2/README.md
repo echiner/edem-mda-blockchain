@@ -4,17 +4,17 @@ In this exercise we will be using [**MyCrypto**](https://mycrypto.com/) to inter
 
 The Smart Contract we will be using here is already deployed in the Rinkeby testnet and has some basic functionality which you will be interacting with. These are the methods available:
 
-* "hello": Will return a greeting message
-* "getNumPokes: Will return the number of pokes sent to the contract
-* "poke": Will send a poke to the contract (requires a transaction confirmed by MetaMask)
+* **"hello"**: Will return a greeting message
+* **"getNumPokes"**: Will return the number of pokes sent to the contract
+* **"poke"**: Will send a poke to the contract (requires a transaction confirmed by MetaMask)
 
 ## Instructions
 
 First let's set it up:
 
-* **Pre-requisite**: Have MetaMask installed as a Chrome or Firefox plugin (see Exercise 1).
-* Go to [MyCrypto](https://mycrypto.com/). Or, if you prefer, go for the [beta version](https://beta.mycrypto.com/) (same functionality, but simpler).
-* Select how you want to access your wallet. Click on Web3/MetaMask and follow the steps for approval.
+* **Pre-requisite**: Have MetaMask installed as a Chrome or Firefox plugin (see Exercise 1)
+* Go to [MyCrypto](https://mycrypto.com/)
+* Select how you want to access your wallet. Click on Web3/MetaMask and follow the steps for approval
 
 Follow these steps to interact with the contract:
 
